@@ -36,6 +36,9 @@ tr, td {
 td {
     padding: 10px 10px;
 }
+tr:hover {
+    background-color: aquamarine;
+}
 .table-menu {
     text-align: center;
     font-weight: 700;
