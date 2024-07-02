@@ -1,14 +1,14 @@
 button {
     margin : 20px 0px;
 }
-ul>li {
+.mennu-li>li {
     margin-bottom: 10px;
     line-height: 30px;
     list-style: none;
 }
-ul {
+/* ul {
     padding-left: 0px;
-}
+} */
 .header, .footer {
     font-size: 25px;
 }
